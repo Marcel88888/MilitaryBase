@@ -7,7 +7,7 @@ Object-oriented program for creating military detachments
 * [Features](#features)
 
 ## General info
-Project was made tot familiarize myself with the object-oriented programming paradigm for subject Object-Oriented Programming on the 2. semester on Warsaw University of Technology.
+Project was made to familiarize myself with the object-oriented programming paradigm for subject Object-Oriented Programming on the 2. semester on Warsaw University of Technology.
 
 ## Technologies
 * C++
